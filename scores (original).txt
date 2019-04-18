@@ -1,0 +1,30 @@
+eg2_grndtruth.jpg
+Regular Equalization:		0.931304
+Bi-Histogram Equalization:	0.936829
+Histogram Hypoerbolization:	0.814222
+CLAHE:						0.965938
+
+eg2_lowcntrst1.jpg
+Regular Equalization:		0.934314
+Bi-Histogram Equalization:	0.935513
+Histogram Hypoerbolization:	0.821439
+CLAHE:						0.856960
+
+eg2_lowcntrst2.jpg
+Regular Equalization:		0.920124
+Bi-Histogram Equalization:	0.549886
+Histogram Hypoerbolization:	0.870178
+CLAHE:						0.456887
+
+eg2_lowcntrst3.jpg
+Regular Equalization:		0.943022
+Bi-Histogram Equalization:	0.920977
+Histogram Hypoerbolization:	0.867725
+CLAHE:						0.859810
+
+eg2_lowcntrst4.jpg
+Regular Equalization:		0.871658
+Bi-Histogram Equalization:	0.756037
+Histogram Hypoerbolization:	0.751921
+CLAHE:						0.697506
+
